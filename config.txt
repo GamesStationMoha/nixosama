@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
-game=Ready!
+token=NTI0OTQ1NTY3MTAxNzQ3MjIy.Dvvdow.jiCdaHBGnsLlxp8Fa00jaskpv4U
+owner=411605761584791563
+prefix=o
+game=Type oplay
 stayinchannel=true
 songinstatus=false
