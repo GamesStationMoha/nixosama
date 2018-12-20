@@ -1,6 +1,6 @@
 token=NTI0OTQ1NTY3MTAxNzQ3MjIy.Dvvdow.jiCdaHBGnsLlxp8Fa00jaskpv4U
-owner=411605761584791563
-prefix=o
-game=Type oplay
+owner=510758300313452545
+prefix=Y
+game=Type Yplay
 stayinchannel=true
 songinstatus=false
