@@ -1,5 +1,5 @@
 token=NTI0OTQ1NTY3MTAxNzQ3MjIy.Dvvdow.jiCdaHBGnsLlxp8Fa00jaskpv4U
-owner=510758300313452545
+owner=525335066289635338
 prefix=Y
 game=Type Yplay
 stayinchannel=true
